@@ -1,0 +1,12 @@
+# CSPS_RetinaNet requirements (excluding torch/torchvision)
+# Install torch and torchvision separately as per repo instructions(Refer to README.md)
+numpy
+opencv-python
+pillow
+matplotlib
+scipy
+tqdm
+pycocotools
+pandas
+thop
+tensorboard
